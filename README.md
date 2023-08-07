@@ -1,2 +1,2 @@
-# cybertweak
-This repository is Knowledge base dump of IT skills, innovation, ideas and problem solving methods to help information Technology. This repository encompasses Models, programs, Notes etc. to Help Information Technology strive.    
+# INTRUSION DETECTION USING CONVOLUTIONAL NEURAL NETWORK 
+IDS USING CNN was designed and evaluated using Python programming language and its libraries, this model was created and deployed using the rudiments of Data science such as data cleaning, data preprocessing, feature engineering etc. the model was tunned to obtain the optimal model needed for classification of the features of CIC-IDS intrusion data used in this research. the model achieved huge success when evaluated using metrics of accuracy, recall, f1-score and precision. 14 types of attacks were classified in this multiclassification problem. 
